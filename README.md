@@ -24,6 +24,10 @@ I also have an interest in the following, but haven't deployed anything in a lar
 
 Working with distributed systems has been central to my career, whether building supercomputers in a physical data center to working with Kubernetes in the cloud. I love building tools and processes to make these systems more reliable, scalable, and observable. 
 
+Talks I've given:
+
+* [Telepresence for Operations Teams - Devhouse 2021](https://www.youtube.com/watch?v=VQvJIP0zsqY)
+
 📫 The best way to reach me is by [email](mailto:ryanaross@protonmail.com)
 
 😄 Pronouns: he/him
