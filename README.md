@@ -2,7 +2,7 @@
 
 My name is Ryan. I like writing code.
 
-I currently work at [Martin DSP](https://martin.ai) as a Senior DevOps Engineer where I collaborate with developers and business leaders to get application features to customers quickly while ensuring the reliability and observability of our internal developer and application platforms.
+I currently work at [dbt Labs](https://getdbt.com) as a Senior Site Reliability Engineer where I collaborate with developers and business leaders to get application features to customers quickly while ensuring the reliability and observability of our internal developer and application platforms.
 
 Daily, I work with the following tools in a production capacity at a massive scale:
 
