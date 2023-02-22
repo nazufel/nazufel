@@ -28,7 +28,7 @@ Talks I've given:
 
 * [Telepresence for Operations Teams - Devhouse 2021](https://www.youtube.com/watch?v=VQvJIP0zsqY)
 
-📫 The best way to reach me is by [email](mailto:ryanaross@protonmail.com)
+📫 The best way to reach me is by [email](mailto:nazufel@proton.me)
 
 😄 Pronouns: he/him
 
