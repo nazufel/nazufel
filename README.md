@@ -26,7 +26,8 @@ Working with distributed systems has been central to my career, whether building
 
 Talks I've given:
 
-* [Telepresence for Operations Teams - Devhouse 2021](https://www.youtube.com/watch?v=VQvJIP0zsqY)
+* [Telepresence for Operations Teams - Devhouse 2021 (YouTube)](https://www.youtube.com/watch?v=VQvJIP0zsqY)
+* [Maximum Scylla Scluster Uptime with Ansible - Scylla Summit 2023 (Free On-Demand)](https://www.scylladb.com/presentations/maximum-uptime-cluster-orchestration-with-ansible/)
 
 📫 The best way to reach me is by [email](mailto:nazufel@proton.me)
 
