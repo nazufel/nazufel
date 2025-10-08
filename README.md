@@ -32,5 +32,3 @@ Talks I've given:
 📫 The best way to reach me is by [email](mailto:nazufel@proton.me)
 
 😄 Pronouns: he/him
-
-⚡ Fun fact: I'm working on a sci-fi fiction series I hope to publish in 2023.
