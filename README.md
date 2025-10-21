@@ -2,27 +2,23 @@
 
 My name is Ryan. I like writing code.
 
-I currently work at [dbt Labs](https://getdbt.com) as a Senior Site Reliability Engineer where I collaborate with developers and business leaders to get application features to customers quickly while ensuring the reliability and observability of our internal developer and application platforms.
+I currently work at [dbt Labs](https://getdbt.com) as a Senior Product Security Engineer. I get to collaborate with engineering and business stateholders at the design and implemntation phase of feature development ensuring we shift left and think about security from the start. I help lead incident response best practices to lower mean time to response and resolution. I build tools to help secure our systems. My team replies to security-releasted questions, hardens IAM, and responds to Wiz or Expel alerts. There's always something new to do.
 
 Daily, I work with the following tools in a production capacity at a massive scale:
 
+* [Teleport](https://goteleport.com/)
+* [Wiz](https://www.wiz.io/)
+* [Expel](https://expel.com/services/managed-detection-response/)
 * [Kubernetes](https://kubernetes.io)
-* [Terraform](https://terraform.io)
-* [Kustomize](https://kustomize.io)
-* [Ansible - AWX](https://github.com/ansible/awx)
+* [AWS](https://aws.amazon.com/)
 * [Google Cloud Platform](https://cloud.google.com/)
-* [Spinnaker](https://spinnaker.io)
+* [Azure Cloud](https://azure.microsoft.com/en-us/)
 * [Go](https://go.dev)
-* [Prometheus](https://prometheus.io)
-* [ScyllaDB](https://scylladb.com)
-* [Grafana](https://grafana.com)
-
-I also have an interest in the following, but haven't deployed anything in a large capacity:
-
-* [Svelte](https://svelte.dev/)
 * [Rust](https://www.rust-lang.org/)
+* [Python](https://www.python.org/)
+* [Terraform](https://terraform.io)
 
-Working with distributed systems has been central to my career, whether building supercomputers in a physical data center to working with Kubernetes in the cloud. I love building tools and processes to make these systems more reliable, scalable, and observable. 
+I have spent nearly ten years building distributed systesm in the public clouds. During that time, I was always a security champion whether working in DevOps, SRE, or Development. Recently, I've had te opporutnity to do security full-time and I'm loving it.
 
 Talks I've given:
 
