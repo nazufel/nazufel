@@ -22,7 +22,7 @@ I have spent nearly ten years building distributed systesm in the public clouds.
 
 Talks I've given:
 
-* [Telepresence for Operations Teams - Devhouse 2021 (YouTube)](https://www.youtube.com/watch?v=VQvJIP0zsqY)
+* [Telepresence for Operations Teams - Devhouse 2021 ](https://devhouse.sched.com/event/neJ6/telepresence-for-operations-teams) (looks like the video is no longer on Youtube 😢)
 * [Maximum Scylla Cluster Uptime with Ansible - Scylla Summit 2023 (Free On-Demand)](https://www.scylladb.com/presentations/maximum-uptime-cluster-orchestration-with-ansible/)
 
 📫 The best way to reach me is by [email](mailto:nazufel@proton.me)
