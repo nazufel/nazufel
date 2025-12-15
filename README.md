@@ -1,8 +1,16 @@
 # Hello There 👋
 
-My name is Ryan. I like writing code.
+My name is Ryan. I like solving problems and breaking things. 
 
-I currently work at [dbt Labs](https://getdbt.com) as a Senior Product Security Engineer. I get to collaborate with engineering and business stateholders at the design and implemntation phase of feature development ensuring we shift left and think about security from the start. I help lead incident response best practices to lower mean time to response and resolution. I build tools to help secure our systems. My team replies to security-releasted questions, hardens IAM, and responds to Wiz or Expel alerts. There's always something new to do.
+My latest interest is in AI. It's everywhere and want to know how it works and how to break it. I'm taking the [AI Red Teamer](https://academy.hackthebox.com/path/preview/ai-red-teamer) Path on Hack the Box to stay current with AI security trends. I also like to work with local OSS models and run security assessments on them like: jail breaking, prompt injection, and bypassing other security controls. I use:
+
+* [Ollama](https://ollama.com/) - runs models locally
+* [Garak](https://github.com/NVIDIA/garak/) - vulnerability scanner for LLMs
+* [PyRIT](https://github.com/Azure/PyRIT) - automated testing of security risks
+
+These are the latest in ever-changing tooling. I'm always keeping my skills up to date with the latest technologies. 
+
+I currently work at [dbt Labs](https://getdbt.com) as a Senior Product Security Engineer where I work on developing best practices for secure AI use. I get to collaborate with engineering and business stateholders at the design and implemntation phase of feature development ensuring we shift left and think about security from the start. I help lead incident response best practices to lower mean time to response and resolution. I build tools to help secure our systems. My team replies to security-releasted questions, hardens IAM, and responds to Wiz or Expel alerts. There's always something new to do.
 
 Daily, I work with the following tools in a production capacity at a massive scale:
 
@@ -14,7 +22,6 @@ Daily, I work with the following tools in a production capacity at a massive sca
 * [Google Cloud Platform](https://cloud.google.com/)
 * [Azure Cloud](https://azure.microsoft.com/en-us/)
 * [Go](https://go.dev)
-* [Rust](https://www.rust-lang.org/)
 * [Python](https://www.python.org/)
 * [Terraform](https://terraform.io)
 
