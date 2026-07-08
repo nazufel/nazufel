@@ -5,12 +5,15 @@ My name is Ryan. I like solving problems and breaking things.
 My current focus is AI security from both sides.
 
 **Building and governing it:** At work, my team governs enterprise AI usage through a managed
-gateway — RBAC-controlled MCP connections, tool-call observability, and allow-listed skills.
+gateway with RBAC-controlled MCP connections, tool-call observability, and allow-listed skills.
 I recently shipped an agentic AI security bot (Python, Claude on Bedrock) that triages cloud
 security findings and opens remediation PRs, wrapped in a custom harness I built to enforce
-scoped tool access, call limits, and human escalation. I've also written my own MCP server to
-extend an LLM into an environment it couldn't natively reach. My working philosophy: you don't
-bring AI into your world — you give parts of your world to AI, in its own world.
+scoped tool access, call limits, and human escalation. I've also written [my own MCP server](https://github.com/nazufel/xcode-errors-mcp) to extend
+an LLM into an environment it couldn't natively reach — real-time Xcode build errors and
+console output, exposed to Cursor over MCP. 
+
+**My working philosophy:** 
+> You don't bring AI into your world. You give parts of your world to AI in its own world.
 
 **Breaking it:** I'm taking the [AI Red Teamer](https://academy.hackthebox.com/path/preview/ai-red-teamer)
 path on Hack The Box and run security assessments against local OSS models like jailbreaking,
