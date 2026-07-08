@@ -2,7 +2,7 @@
 
 My name is Ryan. I like solving problems and breaking things.
 
-My current focus is AI security — from both sides.
+My current focus is AI security from both sides.
 
 **Building and governing it:** At work, my team governs enterprise AI usage through a managed
 gateway — RBAC-controlled MCP connections, tool-call observability, and allow-listed skills.
@@ -13,8 +13,8 @@ extend an LLM into an environment it couldn't natively reach. My working philoso
 bring AI into your world — you give parts of your world to AI, in its own world.
 
 **Breaking it:** I'm taking the [AI Red Teamer](https://academy.hackthebox.com/path/preview/ai-red-teamer)
-path on Hack The Box and run security assessments against local OSS models — jailbreaking,
-prompt injection, and bypassing security controls — using:
+path on Hack The Box and run security assessments against local OSS models like jailbreaking,
+prompt injection, and bypassing security controls using:
 
 - [Ollama](https://ollama.com/) — runs models locally
 - [Garak](https://github.com/NVIDIA/garak/) — vulnerability scanner for LLMs
@@ -37,7 +37,7 @@ Daily production tools:
 - [Go](https://go.dev) / [Python](https://www.python.org/)
 - [Terraform](https://terraform.io)
 
-I've spent nearly ten years building distributed systems in the public clouds — always the
+I've spent nearly ten years building distributed systems in the public clouds and I'm always the
 security champion, whether in DevOps, SRE, or development. Now I do security full-time, and
 I'm loving it.
 
